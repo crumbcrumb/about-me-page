@@ -6,7 +6,7 @@ This is a simple HTML project that introduces who I am, my interests, and a few 
 
 ## Author
 
-My Name - [GitHub Profile](https://github.com/your-username)
+Katarina Andrews - [crumbcrumb](https://github.com/crumbcrumb)
 
 ## Features
 
@@ -19,4 +19,6 @@ My Name - [GitHub Profile](https://github.com/your-username)
 ## Technologies Used
 
 - HTML
+- Git
+- Github
 
