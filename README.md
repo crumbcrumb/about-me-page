@@ -6,14 +6,14 @@ This is a simple HTML project that introduces who I am, my interests, and a few 
 
 ## Author
 
-Katarina - [crumbcrumb](https://github.com/crumbcrumb)
+My Name - [GitHub Profile](https://github.com/your-username)
 
 ## Features
 
 - Profile heading
 - Short bio
 - List of hobbies
-- A link to your favorite site
+- A link to my favorite site
 - Profile image (coming soon!)
 
 ## Technologies Used
