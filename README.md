@@ -1,12 +1,15 @@
 # About Me Page
 
 ## Description 
+
 This is a simple HTML project that introduces who I am, my interests, and a few of my favorite links.
 
 ## Author
+
 Katarina - [crumbcrumb](https://github.com/crumbcrumb)
 
 ## Features
+
 - Profile heading
 - Short bio
 - List of hobbies
@@ -14,5 +17,6 @@ Katarina - [crumbcrumb](https://github.com/crumbcrumb)
 - Profile image (coming soon!)
 
 ## Technologies Used
+
 - HTML
 
