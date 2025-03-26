@@ -18,6 +18,10 @@ body {
   background-color: #fffff0;
 }
 
+.par {
+  padding: 10px 10px 10px 10px;
+}
+
 img {
   border: 5px solid #000000;
 }
