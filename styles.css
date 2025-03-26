@@ -30,3 +30,7 @@ img {
   display: inline-block;
   text-align: left;
 }
+
+nav {
+  padding: 10px 10px 10px 10px;
+}
