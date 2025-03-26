@@ -19,10 +19,10 @@ body {
 }
 
 img {
-    border: 5px solid #000000;
-  }
+  border: 5px solid #000000;
+}
 
-  .list {
-    display: inline-block;
-    text-align: left;
-  }
+.list {
+  display: inline-block;
+  text-align: left;
+}
