@@ -12,6 +12,7 @@ Katarina Andrews - [crumbcrumb](https://github.com/crumbcrumb)
 
 - Profile heading
 - Short bio
+- List of favorite foods
 - List of hobbies
 - A link to my favorite site
 - Profile image (coming soon!)
