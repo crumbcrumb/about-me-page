@@ -1,29 +1,62 @@
 html {
+  height: 100%;
+  max-width: 800px;
   margin: 0 auto;
-  max-width: 400px;
 }
 
 body {
   text-align: center;
-  background-image: url("./pearls.jpg");
-  height: 100%;
-  width: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  font-family: Roboto, sans-serif;
+  background-image: linear-gradient(to right, #EBEBEB, #C0C0C0);
+}
+
+
+header {
+  padding: 1rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  padding-top: 1rem;
+}
+
+h2 {
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 1.1rem;
+}
+
+
+a:hover {
+  text-decoration: underline;
+  color: #FF6700;
+}
+
+a {
+  text-decoration: none;
+  color: #004E98;
 }
 
 .box {
-  border: 5px solid #000000;
-  background-color: #fffff0;
-}
-
-.par {
-  padding: 10px 10px 10px 10px;
+  background-color: white;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  box-shadow: 5px 10px #FF6700;
 }
 
 img {
-  border: 5px solid #000000;
+  border-radius: 50%;
+  max-width: 100%;
+  box-shadow: 5px 10px #FF6700;
 }
 
 .list {
@@ -31,6 +64,11 @@ img {
   text-align: left;
 }
 
-nav {
-  padding: 10px 10px 10px 10px;
+.flex-container {
+  display: flex;
 }
+
+.flex-container > a {
+  margin: 0 auto;
+}
+
