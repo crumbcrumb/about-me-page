@@ -64,10 +64,8 @@ img {
 
 .flex-container {
   display: flex;
-}
-
-.flex-container > a {
-  margin: 0 auto;
+  justify-content: center;
+  justify-content: space-around;
 }
 
 footer {
