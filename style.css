@@ -1,18 +1,16 @@
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 body {
   text-align: center;
   font-family: Roboto, sans-serif;
   background-image: linear-gradient(to right, #ebebeb, #c0c0c0);
-  max-width: 800px;
-  margin: 0 auto;
-  padding-right: 5px;
 }
 
 header {
   padding: 1rem;
-}
-
-section {
-  margin-bottom: 2rem;
 }
 
 h1 {
@@ -52,6 +50,10 @@ img {
   border-radius: 50%;
   max-width: 100%;
   box-shadow: 5px 10px #ff6700;
+}
+
+.img-container {
+  margin-bottom: 2rem;
 }
 
 .list {
